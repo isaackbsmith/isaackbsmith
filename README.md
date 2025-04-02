@@ -1,1 +1,1 @@
-I am good with computers.
+I am a passionate computer scientist.
